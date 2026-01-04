@@ -84,7 +84,11 @@ function initScrollAnimations() {
         '.course-card',
         '.stat-item',
         '.contact-item',
-        '.section-header'
+        '.section-header',
+        '.capability-card',
+        '.benefit-item',
+        '.sessions-intro',
+        '.cta-section'
     ];
 
     elementsToAnimate.forEach(selector => {
